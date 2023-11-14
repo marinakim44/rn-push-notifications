@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "02a2e529-8c9f-4fc4-ae0d-4dc92c39bce6"
+      }
+    },
+    "owner": "marina_muse"
   }
 }
